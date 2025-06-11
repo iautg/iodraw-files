@@ -25,6 +25,15 @@
         <mxCell id="fmzr5qlM-pR94i_nhNDS-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="702" y="520" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="668" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="506" y="824" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
