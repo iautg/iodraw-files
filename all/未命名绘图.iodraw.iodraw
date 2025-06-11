@@ -23,7 +23,7 @@
           <mxGeometry x="481" y="352" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-9" value="添加、取消" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="675.5" y="504" width="141" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-10" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="482.5" y="670" width="143" height="80" as="geometry" />
