@@ -19,7 +19,7 @@
         <mxCell id="fmzr5qlM-pR94i_nhNDS-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="334" y="681" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fmzr5qlM-pR94i_nhNDS-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-8" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="352" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fmzr5qlM-pR94i_nhNDS-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-13" value="查看、添加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="871" y="363" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
