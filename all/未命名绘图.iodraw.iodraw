@@ -32,7 +32,7 @@
           <mxGeometry x="494" y="824" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
+          <mxGeometry x="484.5" y="946" width="133" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-13" value="查看、添加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="871" y="352" width="121" height="80" as="geometry" />
