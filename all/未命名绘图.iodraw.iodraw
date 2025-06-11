@@ -14,7 +14,7 @@
           <mxGeometry x="494" y="514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-6" value="催单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="693" y="678" width="120" height="60" as="geometry" />
+          <mxGeometry x="702" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-7" value="维修记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="680" width="120" height="60" as="geometry" />
@@ -26,10 +26,10 @@
           <mxGeometry x="702" y="520" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-10" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="473" y="670" width="143" height="80" as="geometry" />
+          <mxGeometry x="482.5" y="670" width="143" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-11" value="维修人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="506" y="824" width="120" height="60" as="geometry" />
+          <mxGeometry x="494" y="824" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
