@@ -34,6 +34,12 @@
         <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-13" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="871" y="363" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="851" y="976" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
