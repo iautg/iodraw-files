@@ -14,7 +14,7 @@
           <mxGeometry x="494" y="514" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-6" value="催单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="702" y="680" width="120" height="60" as="geometry" />
+          <mxGeometry x="686" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-7" value="维修记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="680" width="120" height="60" as="geometry" />
