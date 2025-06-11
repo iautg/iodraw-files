@@ -28,10 +28,10 @@
         <mxCell id="fmzr5qlM-pR94i_nhNDS-10" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="668" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fmzr5qlM-pR94i_nhNDS-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-11" value="维修人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="506" y="824" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-12" value="管理" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="531" y="946" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-13" value="查看、添加" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
