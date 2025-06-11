@@ -26,7 +26,7 @@
           <mxGeometry x="675.5" y="504" width="141" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-10" value="分配" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="482.5" y="670" width="143" height="80" as="geometry" />
+          <mxGeometry x="479.5" y="670" width="143" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fmzr5qlM-pR94i_nhNDS-11" value="维修人员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="494" y="824" width="120" height="60" as="geometry" />
@@ -64,10 +64,16 @@
             <mxPoint x="587" y="441" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fmzr5qlM-pR94i_nhNDS-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="fmzr5qlM-pR94i_nhNDS-5">
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-20" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="fmzr5qlM-pR94i_nhNDS-10" target="fmzr5qlM-pR94i_nhNDS-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="501" y="634" as="sourcePoint" />
             <mxPoint x="551" y="584" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmzr5qlM-pR94i_nhNDS-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="812" as="sourcePoint" />
+            <mxPoint x="461" y="762" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
