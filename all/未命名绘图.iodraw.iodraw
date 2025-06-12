@@ -292,10 +292,10 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-30" value="学生id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2503" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-31" value="学生姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="89" y="2406" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-32" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-32" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="2313" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-33" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
