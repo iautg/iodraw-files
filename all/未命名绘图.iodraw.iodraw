@@ -206,16 +206,28 @@
           <mxGeometry x="83" y="1665" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-10" value="宿舍名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="144" y="1569" width="120" height="80" as="geometry" />
+          <mxGeometry x="152" y="1565" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-11" value="水费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="282" y="1513" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-12" value="电费" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="438" y="1558" width="120" height="80" as="geometry" />
+          <mxGeometry x="420" y="1557" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-13" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="477" y="1668" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-9" target="SPRAa6MlSYn34N4OzZEW-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="168" y="1801" as="sourcePoint" />
+            <mxPoint x="218" y="1751" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="236" y="1680" as="sourcePoint" />
+            <mxPoint x="286" y="1630" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
