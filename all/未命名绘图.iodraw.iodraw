@@ -407,13 +407,19 @@
           <mxGeometry x="296" y="2961" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-58" value="提交报修单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="3004" width="120" height="80" as="geometry" />
+          <mxGeometry x="429" y="2981" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-59" value="现场照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="501" y="3098" width="120" height="80" as="geometry" />
+          <mxGeometry x="481" y="3066" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-60" value="发生故障的物业地点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="3187" width="120" height="80" as="geometry" />
+          <mxGeometry x="468" y="3166" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-61" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-54" target="SPRAa6MlSYn34N4OzZEW-53">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="3301" as="sourcePoint" />
+            <mxPoint x="190" y="3251" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
