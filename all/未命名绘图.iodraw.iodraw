@@ -563,10 +563,13 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="1827" />
-              <mxPoint x="790" y="2171" />
-              <mxPoint x="870" y="2171" />
+              <mxPoint x="790" y="2101" />
+              <mxPoint x="870" y="2101" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="755" y="1926" width="40" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
