@@ -460,7 +460,7 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-68" value="催单实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="252" y="3549" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-69" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-69" value="编号id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="71" y="3529" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -468,6 +468,12 @@
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-71" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="273" y="3367" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-72" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="426" y="3436" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-73" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="3539" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
