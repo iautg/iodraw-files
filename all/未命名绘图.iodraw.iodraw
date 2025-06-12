@@ -398,19 +398,19 @@
           <mxGeometry x="41" y="3168" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-55" value="问题详情" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="69" y="3057" width="120" height="80" as="geometry" />
+          <mxGeometry x="69" y="3070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-56" value="&lt;u&gt;编号id&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="169" y="2972" width="120" height="80" as="geometry" />
+          <mxGeometry x="158" y="2990" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-57" value="报修单状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="296" y="2961" width="120" height="80" as="geometry" />
+          <mxGeometry x="285" y="2961" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-58" value="提交报修单时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="2981" width="120" height="80" as="geometry" />
+          <mxGeometry x="416" y="2986" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-59" value="现场照片" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="481" y="3066" width="120" height="80" as="geometry" />
+          <mxGeometry x="473.5" y="3070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-60" value="发生故障的物业地点" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="468" y="3166" width="120" height="80" as="geometry" />
