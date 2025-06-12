@@ -391,10 +391,10 @@
             <mxPoint x="443" y="2880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-53" value="报修单实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="255" y="3178" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-54" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-54" value="提交该报修单学生编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="41" y="3168" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-55" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
