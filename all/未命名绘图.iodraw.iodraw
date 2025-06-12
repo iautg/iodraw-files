@@ -203,7 +203,7 @@
           <mxGeometry x="280" y="1678" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-9" value="id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="83" y="1665" width="120" height="80" as="geometry" />
+          <mxGeometry x="98" y="1666" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-10" value="宿舍名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="152" y="1565" width="120" height="80" as="geometry" />
@@ -215,7 +215,7 @@
           <mxGeometry x="420" y="1557" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-13" value="时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="477" y="1668" width="120" height="80" as="geometry" />
+          <mxGeometry x="462" y="1668" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-9" target="SPRAa6MlSYn34N4OzZEW-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -241,7 +241,7 @@
             <mxPoint x="409" y="1632" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="SPRAa6MlSYn34N4OzZEW-13">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-19" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-8" target="SPRAa6MlSYn34N4OzZEW-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="426" y="1808" as="sourcePoint" />
             <mxPoint x="476" y="1758" as="targetPoint" />
