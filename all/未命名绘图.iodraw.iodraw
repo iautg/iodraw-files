@@ -367,10 +367,16 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-48" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="481" y="2784" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-45" target="SPRAa6MlSYn34N4OzZEW-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="164" y="2950" as="sourcePoint" />
             <mxPoint x="214" y="2900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-50" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-44" target="SPRAa6MlSYn34N4OzZEW-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="2954" as="sourcePoint" />
+            <mxPoint x="236" y="2904" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
