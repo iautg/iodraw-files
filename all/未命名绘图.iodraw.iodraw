@@ -505,6 +505,9 @@
             <mxPoint x="458" y="3641" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-1" target="WCyAgX8W2TmRaD2pjiFy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-1" value="开始" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1325" width="120" height="80" as="geometry" />
         </mxCell>
