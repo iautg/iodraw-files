@@ -355,11 +355,17 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-44" value="维修人员实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="283" y="2797" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-45" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-45" value="编号id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="83" y="2756" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-46" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-46" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="169" y="2635" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-47" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="403" y="2649" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-48" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="508" y="2777" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
