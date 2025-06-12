@@ -179,7 +179,13 @@
           <mxGeometry x="277" y="1255" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-4" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="485" y="1382" width="120" height="80" as="geometry" />
+          <mxGeometry x="473.5" y="1369" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-2" target="SPRAa6MlSYn34N4OzZEW-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="1529" as="sourcePoint" />
+            <mxPoint x="193" y="1479" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
