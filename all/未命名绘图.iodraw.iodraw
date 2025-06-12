@@ -526,6 +526,9 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-6" value="查看报修单列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1683" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-8" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="826" y="1762" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
