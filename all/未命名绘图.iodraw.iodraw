@@ -544,8 +544,14 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-12" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="956" y="1500" width="25" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="WCyAgX8W2TmRaD2pjiFy-13" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1957" width="120" height="60" as="geometry" />
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-13" target="WCyAgX8W2TmRaD2pjiFy-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-13" value="填写报修单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1915" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-15" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="2055" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
