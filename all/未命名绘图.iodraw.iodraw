@@ -289,7 +289,7 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-29" value="学生实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="285" y="2510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-30" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-30" value="学生id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="2503" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-31" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -302,13 +302,13 @@
           <mxGeometry x="296" y="2285" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-34" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="433" y="2357" width="120" height="80" as="geometry" />
+          <mxGeometry x="438" y="2320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-35" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="516" y="2450" width="120" height="80" as="geometry" />
+          <mxGeometry x="500.5" y="2400" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-36" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="495" y="2537" width="120" height="80" as="geometry" />
+          <mxGeometry x="497.5" y="2510" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
