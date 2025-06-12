@@ -172,7 +172,7 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-1" value="管理员实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="268" y="1392" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-2" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-2" value="&lt;u&gt;编号&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="98" y="1382" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-3" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -359,13 +359,13 @@
           <mxGeometry x="102" y="2787" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-46" value="姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="193" y="2659" width="120" height="80" as="geometry" />
+          <mxGeometry x="200" y="2680" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-47" value="电话" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="398" y="2664" width="120" height="80" as="geometry" />
+          <mxGeometry x="386" y="2676" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-48" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="491" y="2777" width="120" height="80" as="geometry" />
+          <mxGeometry x="481" y="2784" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
