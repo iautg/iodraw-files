@@ -598,7 +598,7 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-30" target="WCyAgX8W2TmRaD2pjiFy-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WCyAgX8W2TmRaD2pjiFy-30" value="查看报修单列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-30" value="查看学生列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1088.94" y="1757" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-32" target="WCyAgX8W2TmRaD2pjiFy-36">
