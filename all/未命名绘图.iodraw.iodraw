@@ -467,13 +467,19 @@
           <mxGeometry x="132" y="3429" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-71" value="催单创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="257" y="3365" width="120" height="80" as="geometry" />
+          <mxGeometry x="260" y="3386" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-72" value="该催单对应的报修单号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="3416" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="3427" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-73" value="发起催单的学生编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="3539" width="120" height="80" as="geometry" />
+          <mxGeometry x="441" y="3532" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-74" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="SPRAa6MlSYn34N4OzZEW-69">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="143" y="3662" as="sourcePoint" />
+            <mxPoint x="143" y="3682.710678118655" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
