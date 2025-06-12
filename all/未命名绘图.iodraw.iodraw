@@ -523,6 +523,9 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-3" value="登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="804" y="1556" width="132" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-6" target="WCyAgX8W2TmRaD2pjiFy-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-6" value="查看报修单列表" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="810" y="1683" width="120" height="60" as="geometry" />
         </mxCell>
