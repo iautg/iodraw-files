@@ -250,10 +250,10 @@
         <mxCell id="SPRAa6MlSYn34N4OzZEW-20" value="维修记录实体" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257" y="2092" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-21" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-21" value="编号id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="66" y="2003" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SPRAa6MlSYn34N4OzZEW-22" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SPRAa6MlSYn34N4OzZEW-22" value="对应的报修单" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="199" y="1889" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SPRAa6MlSYn34N4OzZEW-23" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
