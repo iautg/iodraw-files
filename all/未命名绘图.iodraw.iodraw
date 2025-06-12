@@ -616,7 +616,7 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-36" target="WCyAgX8W2TmRaD2pjiFy-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WCyAgX8W2TmRaD2pjiFy-36" value="填写报修单" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-36" value="输入学生信息" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1088.94" y="1989" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WCyAgX8W2TmRaD2pjiFy-38" target="WCyAgX8W2TmRaD2pjiFy-39">
