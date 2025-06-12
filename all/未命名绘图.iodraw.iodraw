@@ -535,6 +535,9 @@
         <mxCell id="WCyAgX8W2TmRaD2pjiFy-8" value="添加报修单" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="802.5" y="1787" width="135" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="WCyAgX8W2TmRaD2pjiFy-11" value="y" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="868" y="1644" width="24" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
